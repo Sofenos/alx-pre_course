@@ -1,1 +1,2 @@
 /root
+echo ~ > .gitignore
